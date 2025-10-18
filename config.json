@@ -1,0 +1,16 @@
+{
+  "name": "Ricky's Afilmory",
+  "title": "Ricky's Afilmory",
+  "description": "Something good in life.",
+  "url": "https://photo.liqimore.com/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Ricky",
+    "url": "https://liqimore.com/",
+    "avatar": "https://cdn.jsdelivr.net/gh/Innei/static@master/avatar.png"
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin"
+}
